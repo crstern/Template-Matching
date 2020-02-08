@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1581165466 source:c:\users\stern cristian\desktop\coding\template matching\template_matching.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+
+1581165778 source:c:\users\stern cristian\desktop\coding\template matching\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
